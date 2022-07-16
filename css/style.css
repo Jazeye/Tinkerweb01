@@ -386,6 +386,7 @@ section {
   
 }
 .eventsub-img {
+    border: 1px solid #ddd;
 border-radius:5%;
   width: 70%;
 margin-left: auto;
